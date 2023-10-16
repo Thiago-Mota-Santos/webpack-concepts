@@ -1,7 +1,7 @@
 {
   "name": "webpack-learn",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.ts",
   "license": "MIT",
   "private": true,
   "scripts": {
@@ -12,8 +12,13 @@
     "css-loader": "^6.8.1",
     "lodash": "^4.17.21",
     "style-loader": "^3.3.3",
+    "ts-loader": "^9.5.0",
     "tsx": "^3.13.0",
+    "typescript": "^5.2.2",
     "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.3"
   }
 }
