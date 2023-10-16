@@ -6,8 +6,6 @@ I'm learning webpack concepts, this repo will contain my learning.
 </div>
 
 
-##How to start:
-
 - Install the packages
 
 ```sh
