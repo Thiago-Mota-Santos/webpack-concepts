@@ -2,7 +2,7 @@
 I'm learning webpack concepts, this repo will contain my learning.
 
 <div align="center">
-![image](https://github.com/Thiago-Mota-Santos/webpack-concepts/assets/75326612/42f2188e-6a69-46f9-a1ad-e090ed0413bd)
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/75326612/275595168-42f2188e-6a69-46f9-a1ad-e090ed0413bd.png" alt="bundling" />
 </div>
 ## How to start:
 
