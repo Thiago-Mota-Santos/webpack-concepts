@@ -3,6 +3,7 @@
         "noImplicitAny": true,
         "target": "ES5",
         "moduleResolution": "NodeNext",
-        "module": "ES2015"
+        "module": "NodeNext",
+        "allowSyntheticDefaultImports": true
     }
 }
