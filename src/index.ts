@@ -1,12 +1,15 @@
-import './styles.css'
+import chalk from 'chalk'
+import wrapAnsi from 'wrap-ansi';
 
-function component() {
-    const element = document.createElement('div');
-  
-    element.innerHTML = "hello webpack"
-    element.classList.add('hello');
+function example () {
+  const input = 'The quick brown ' + chalk.red('fox jumped over ') +
+	'the lazy ' + chalk.green('dog and then ran away with the unicorn.');
 
-    return element;
-  }
+  console.log(wrapAnsi(input, 20));
+}
+
+example()
+
+
+
   
-  document.body.appendChild(component());
